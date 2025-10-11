@@ -1,0 +1,5 @@
+{
+  "name": "Générateur de Programme Pomodoro (to do liste)",
+  "description": "Une application pour générer un programme de travail et de pauses personnalisé basé sur la technique Pomodoro. Entrez vos heures de début et de fin pour créer votre emploi du temps.",
+  "requestFramePermissions": []
+}
